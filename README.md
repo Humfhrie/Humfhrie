@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Humfhrie
-- 👀 I’m interested in web development
+- 👀 I’m interested in Data Analysis web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me here
