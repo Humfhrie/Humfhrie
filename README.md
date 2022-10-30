@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me here
+- https://twitter.com/Humfhrie
+- https://replit.com/@Humfhrie
 
 <!---
 Humfhrie/Humfhrie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
